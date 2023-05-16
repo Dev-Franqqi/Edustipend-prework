@@ -20,7 +20,7 @@ export default function () {
 
 
 
-        <aside className={`bg-gray-600 p-2 w-96 h-full flex flex-col justify-center ${sideBarView}`}>
+        <aside className={`bg-gray-600 p-2 w-96 h-full md:flex md:flex-col md:justify-center ${sideBarView} flex-col justify-center`}>
             <div className='flex justify-between'>
             <h2 className="text-2xl font-bold md:text-center text-white mb-4">Trending songs</h2>
                 

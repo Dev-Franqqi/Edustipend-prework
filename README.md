@@ -1,7 +1,8 @@
 # Edustipend-prework
 
 A project to test out React skills for the frontend Engineer role at Edustipend
-Front-end Engineer (React) Volunteer
+Front-end Engineer (React) Volunteer.
+I want to thank Edustipend for giving me this opportunity
 
 [Live Demo][https://edustipend-prework.vercel.app]
 

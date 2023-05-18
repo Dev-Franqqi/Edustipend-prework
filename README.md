@@ -52,9 +52,11 @@ email. Please let us know if you do not think you can meet this deadline.
 Task 1:
 Given the user interface mock below, identify the core components that
 make up the user interface.
+
 Task 2:
 Write React code for two of the components you identified in the UI
 mockup above.
+
 Task 3:
 Push your code to GitHub and provide us with the link to the code, so we
 can review it.

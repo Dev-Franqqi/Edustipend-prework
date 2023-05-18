@@ -5,6 +5,8 @@ Front-end Engineer (React) Volunteer
 
 ##Live Demo
 [https://edustipend-prework.vercel.app][https://edustipend-prework.vercel.app]
+![image](https://github.com/Dev-Franqqi/Edustipend-prework/assets/112135616/c60af2e6-ac0d-44c9-b192-3f3c5c044142)
+
 
 
 ##components 
@@ -40,8 +42,6 @@ optimized for different screen sizes.
 communication and collaboration skills to work effectively with other
 team members, such as back-end developers, designers, and project
 managers.
-
-![image](https://github.com/Dev-Franqqi/Edustipend-prework/assets/112135616/c60af2e6-ac0d-44c9-b192-3f3c5c044142)
 
 Please keep the above in mind but feel free to go over and beyond to
 demonstrate your knowledge as well as experience in these areas.
